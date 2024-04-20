@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![image](https://github.com/GUNJAN-AGGARWAL16/holdings-table/assets/76522256/140d8247-008e-42a6-b9d0-65f95afc67d6)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
